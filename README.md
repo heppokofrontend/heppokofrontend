@@ -4,14 +4,17 @@
   <a href="https://github.com/heppokofrontend/heppokofrontend/">
     <img src="https://komarev.com/ghpvc/?username=heppokofrontend&color=008080" alt="heppokofrontend" />
   </a>
-  <a href="https://github.com/heppokofrontend">
-    <img height="20" src="https://img.shields.io/github/followers/heppokofrontend?label=follow&logo=github&style=flat" />
+  <a href="https://www.youtube.com/channel/UCtayGWXp2NWel6CyfBcWw6Q">
+    <img height="20" src="https://img.shields.io/youtube/channel/subscribers/UCtayGWXp2NWel6CyfBcWw6Q?label=YouTube&logo=youtube&style=flat" />
   </a>
   <a href="http://twitter.com/kawarabeecma">
     <img height="20" src="https://img.shields.io/twitter/follow/kawarabeecma?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="http://qiita.com/heppokofrontend">
     <img height="20" src="https://qiita-badge.apiapi.app/s/heppokofrontend/contributions.svg" />
+  </a>
+  <a href="https://github.com/heppokofrontend">
+    <img height="20" src="https://img.shields.io/github/followers/heppokofrontend?label=follow&logo=github&style=flat" />
   </a>
 </p>
 
@@ -21,7 +24,8 @@
 Web制作をしています🧑‍💻
 
 - Stream：[#かわらいぶ](https://twitter.com/hashtag/かわらいぶ)
-- FanMark：🥒 <!-- - FanName：[#きゅーかんばーず （仮）](https://twitter.com/hashtag/きゅーかんばーず) -->
+- FanMark：🥒
+- FanName：はすのこ
 - FanArt：[#河童絵巻](https://twitter.com/hashtag/河童絵巻)
 - Clip：[#ひとくちきゅーり ](https://twitter.com/hashtag/ひとくちきゅーり)
 - Dev/Other：[#へっぽこフロントエンド道](https://twitter.com/hashtag/へっぽこフロントエンド道)
