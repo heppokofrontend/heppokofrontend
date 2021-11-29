@@ -18,7 +18,7 @@
   </a>
 </p>
 
-[![EcmaKawarabe's github stats](https://github-readme-stats.vercel.app/api?username=heppokofrontend&count_private=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)  [![EcmaKawarabe's Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heppokofrontend&layout=compact&count_private=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![EcmaKawarabe's github stats](https://github-readme-stats.vercel.app/api?username=heppokofrontend&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)  [![EcmaKawarabe's Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heppokofrontend&layout=compact&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 どこにでもいる普通の河童です☀️🥒  
 Web制作をしています🧑‍💻
