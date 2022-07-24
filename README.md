@@ -1,5 +1,7 @@
 # I am [Ecma Kawarabe](https://www.youtube.com/channel/UCtayGWXp2NWel6CyfBcWw6Q?sub_confirmation=1) ! 🇯🇵
 
+LICENSE: <https://github.com/heppokofrontend/LICENSE>
+
 <p> 
   <a href="https://github.com/heppokofrontend/heppokofrontend/">
     <img src="https://komarev.com/ghpvc/?username=heppokofrontend&color=008080" alt="heppokofrontend" />
