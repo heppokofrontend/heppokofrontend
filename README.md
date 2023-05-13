@@ -18,7 +18,7 @@
   </a>
 </p>
 
-LICENSE: <https://github.com/heppokofrontend/LICENSE>
+LICENSE: [https://heppokofrontend.dev/guidelines](https://heppokofrontend.dev/guidelines?utm_source=github&utm_medium=social&utm_campaign=article)
 
 [![EcmaKawarabe's github stats](https://github-readme-stats.vercel.app/api?username=heppokofrontend&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)  [![EcmaKawarabe's Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heppokofrontend&layout=compact&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
